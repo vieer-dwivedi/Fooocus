@@ -1,3 +1,15 @@
+```Python
+!pip install pygit2==1.15.1
+%cd /content
+!git clone https://github.com/lllyasviel/Fooocus.git
+%cd /content/Fooocus
+!python entry_with_update.py --share --always-high-vram
+```
+https://colab.research.google.com/drive/1Q9N76yx09NUgXqpXET1i0RK_7gGZjLoj?usp=sharing <br></br>
+
+
+
+
 <div align=center>
 <img src="https://github.com/lllyasviel/Fooocus/assets/19834515/483fb86d-c9a2-4c20-997c-46dafc124f25">
 </div>
